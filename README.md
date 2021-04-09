@@ -1,1 +1,1 @@
-# rbf_kernel
+# Radial Basis Function Kernel
